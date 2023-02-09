@@ -1,0 +1,17 @@
+.logo-title {
+    color: var(--bs-heading-color, inherit);
+}
+
+.header-logo {
+    border-color: var(--bs-heading-color) !important;
+}
+
+.footer-logo {
+    border-color: var(--bs-secondary-color) !important;
+}
+
+.img-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
